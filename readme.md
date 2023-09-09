@@ -46,4 +46,4 @@ for i in {1..2035}; do LC_ALL=C tr -dc 'A-Za-z0-9!"#$%&'\''()*+,-./:;<=>?@[\]^_`
 - exiftool
 - jpegoptim
 
-![alt text](https://raw.githubusercontent.com/recovery-keys/sep2023/main/sep-2033_flow.drawio.png)
+![alt text](https://raw.githubusercontent.com/recovery-keys/sep2023/master/sep-2033_flow.drawio.png)
